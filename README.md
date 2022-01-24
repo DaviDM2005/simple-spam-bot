@@ -7,7 +7,7 @@ INSTRUCTION:
 step 1: Open the PC CONSOLE(win+r);
 step 2: Type CMD;
 step 3:  Run this PYTHON FILE(python main.py);
-step 4: Finally go where you want to go, click on the message field with the mouse and wait.
+step 4: Finally go where you want to go, click on the message bar with the mouse and wait.
 
 
 
